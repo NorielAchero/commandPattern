@@ -19,6 +19,7 @@ Upload your GitHub Solution link here.
 
 
 
+![CommandPattern (1)](https://github.com/NorielAchero/commandPattern/assets/142378544/a905b87b-f88b-4f29-b39a-c6f063f44501)
 
-![CommandPattern](https://github.com/NorielAchero/commandPattern/assets/142378544/ce4c23b2-3380-473f-92bc-2737dd61a5aa)
+
 
